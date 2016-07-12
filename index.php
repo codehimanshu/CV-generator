@@ -7,9 +7,10 @@
 	</head>
 	
 	<body>
-		<form action="generate.php" method="post">
-			<input type="text" placeholder="Name" name="name" required />
-			<input type="submit" value="Generate" name="generate" >
+
+		<form action="p1.php" method="post">
+			<input type="submit" name="proceed" value="Proceed"> 
 		</form>
+
 	</body>
 </html>
